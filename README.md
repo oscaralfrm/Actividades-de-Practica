@@ -1,2 +1,2 @@
-# Actividades-de-Practica
-Actividades de Práctica UTN
+# Repositorio-GIT-Personal
+ Repositorio de Actividades Prácticas
