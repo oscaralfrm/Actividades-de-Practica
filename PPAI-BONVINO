@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T18:22:51.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ro5iMCj5St6SmJI79d9P" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T18:23:18.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="btve10NUSKfoqI-HjBbt" version="24.2.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2203" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3900" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="--btbFv4Toh0HAnlBqte-60" value="Loop Para cada vino&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;[Mientras el vino esté en las primeras 10 posiciones]&lt;/div&gt;" style="html=1;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.sysml.package2;xSize=90;overflow=fill;fontSize=13.3;fontColor=#3a414a;align=left;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=eAxuhJikFkLI;labelX=277.29;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="1600" width="1710" height="690" as="geometry" />
+          <mxGeometry x="-690" y="1600" width="1710" height="600" as="geometry" />
         </mxCell>
         <mxCell id="ku-wje5dmeUF3dkiyVUN-1" value="Loop Reseñas de Vino por Sommelier&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;[Mientras hayan vinos]&lt;/div&gt;" style="html=1;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.sysml.package2;xSize=90;overflow=fill;fontSize=13.3;fontColor=#3a414a;align=left;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=eAxuhJikFkLI;labelX=277.29;" parent="1" vertex="1">
           <mxGeometry x="-740" y="550" width="860" height="326" as="geometry" />
