@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T19:56:55.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uW9WDR7wXmIqPBkAiyk5" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T20:07:19.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7tSxmt66VsSt5X_rOmG5" version="24.2.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2500" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KzknGmlkmSGgsTgcFfTz-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="1020" width="940" height="340" as="geometry" />
+          <mxGeometry x="-910" y="1020" width="640" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KzknGmlkmSGgsTgcFfTz-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-900" y="575" width="610" height="270" as="geometry" />
@@ -424,31 +424,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="--btbFv4Toh0HAnlBqte-47" value="Loop Para cada vino&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;[Mientras hayan vinos]&lt;/div&gt;" style="html=1;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.sysml.package2;xSize=90;overflow=fill;fontSize=13.3;fontColor=#3a414a;align=left;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=eAxuhJikFkLI;labelX=277.29;" parent="1" vertex="1">
-          <mxGeometry x="-900" y="1030" width="910" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="--btbFv4Toh0HAnlBqte-49" value="Loop Para cada reseña&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;[Mientras hayan reseñas]&lt;/div&gt;" style="html=1;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.sysml.package2;xSize=90;overflow=fill;fontSize=13.3;fontColor=#3a414a;align=left;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=eAxuhJikFkLI;labelX=277.29;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="1120" width="690" height="210" as="geometry" />
+          <mxGeometry x="-900" y="1030" width="620" height="150" as="geometry" />
         </mxCell>
         <mxCell id="--btbFv4Toh0HAnlBqte-50" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=10;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;lucidId=eAxuuN~Lr5RU;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="-570" y="1211" as="sourcePoint" />
-            <mxPoint x="-360" y="1210.5" as="targetPoint" />
+            <mxPoint x="-574" y="1150.5" as="sourcePoint" />
+            <mxPoint x="-364" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="--btbFv4Toh0HAnlBqte-51" value="getPuntajeSommelier()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" parent="--btbFv4Toh0HAnlBqte-50" vertex="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="--btbFv4Toh0HAnlBqte-52" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=10;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;lucidId=eAxuuN~Lr5RU;" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-360" y="1270" as="sourcePoint" />
-            <mxPoint x="-150" y="1269.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="--btbFv4Toh0HAnlBqte-53" value="sosDeSommelier()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" parent="--btbFv4Toh0HAnlBqte-52" vertex="1">
+        <mxCell id="--btbFv4Toh0HAnlBqte-51" value="* getPuntajeSommelier()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" parent="--btbFv4Toh0HAnlBqte-50" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -460,7 +445,7 @@
             <mxPoint x="-570" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="--btbFv4Toh0HAnlBqte-57" value="contarReseñas()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" parent="--btbFv4Toh0HAnlBqte-56" vertex="1">
+        <mxCell id="--btbFv4Toh0HAnlBqte-57" value="calcularPromedio()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" parent="--btbFv4Toh0HAnlBqte-56" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
