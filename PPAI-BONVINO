@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T20:27:11.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="j4f2YgdJk6A-jR8RR0Mc" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T20:27:47.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8uJo8XEL_Zwc2r8iAS-J" version="24.2.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2433" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KzknGmlkmSGgsTgcFfTz-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="1502" width="640" height="128" as="geometry" />
-        </mxCell>
         <mxCell id="KzknGmlkmSGgsTgcFfTz-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-910" y="1020" width="640" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KzknGmlkmSGgsTgcFfTz-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="1502" width="640" height="128" as="geometry" />
         </mxCell>
         <mxCell id="KzknGmlkmSGgsTgcFfTz-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-900" y="575" width="610" height="270" as="geometry" />
@@ -448,7 +448,7 @@
             <mxPoint x="-570" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="--btbFv4Toh0HAnlBqte-57" value="calcularPromedio()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" parent="--btbFv4Toh0HAnlBqte-56" vertex="1">
+        <mxCell id="--btbFv4Toh0HAnlBqte-57" value="calcularPromedioReseñasSommelier()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" parent="--btbFv4Toh0HAnlBqte-56" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -881,7 +881,7 @@
             <mxPoint x="-358.5" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzknGmlkmSGgsTgcFfTz-49" value="getPuntaje()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" vertex="1" parent="KzknGmlkmSGgsTgcFfTz-48">
+        <mxCell id="KzknGmlkmSGgsTgcFfTz-49" value="* getPuntaje()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#3a414a;fontSize=13.3;" vertex="1" parent="KzknGmlkmSGgsTgcFfTz-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
