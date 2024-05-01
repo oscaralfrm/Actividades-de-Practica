@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T14:39:30.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="afgl-dFEWyjV8NMJNsxz" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T14:41:10.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="3rWZSsBQ7xExy9a4AxIC" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2207" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
           <mxGeometry y="100" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fED0F7mCU0TBl71dGA9I-14" value="&lt;&lt;entity&gt;&gt;&#xa;Provincia" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-370" y="540" width="260" height="170" as="geometry">
+          <mxGeometry x="-450" y="440" width="260" height="170" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -262,15 +262,27 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-47" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=-0.015;exitY=0.191;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fED0F7mCU0TBl71dGA9I-6" target="fED0F7mCU0TBl71dGA9I-14" edge="1">
+        <mxCell id="fED0F7mCU0TBl71dGA9I-47" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=-0.015;exitY=0.191;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fED0F7mCU0TBl71dGA9I-6" target="fED0F7mCU0TBl71dGA9I-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-400" y="480" as="sourcePoint" />
-            <mxPoint x="-240" y="480" as="targetPoint" />
+            <mxPoint x="-180" y="447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fED0F7mCU0TBl71dGA9I-48" value="0...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="fED0F7mCU0TBl71dGA9I-47" vertex="1" connectable="0">
           <mxGeometry x="-0.8189" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDyscSyEOwKmVkwpHLep-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.004;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fED0F7mCU0TBl71dGA9I-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="420" as="sourcePoint" />
+            <mxPoint x="-190" y="474" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDyscSyEOwKmVkwpHLep-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.731;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.681;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fED0F7mCU0TBl71dGA9I-17" target="fED0F7mCU0TBl71dGA9I-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="420" as="sourcePoint" />
+            <mxPoint x="-30" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
