@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T14:35:59.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="44IgyM5mjSu0co2QEkTb" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T14:39:07.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="5nik9Ud-Oa_c7f1gtXoW" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2207" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,18 +19,18 @@
           <mxGeometry y="192" width="260" height="208" as="geometry" />
         </mxCell>
         <mxCell id="Z-YWU6AqfrRppW4aUFze-1" value="&lt;&lt;control&gt;&gt;&#xa;GestorRankingVinos&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="660" y="-150" width="260" height="378" as="geometry">
+          <mxGeometry x="660" y="-150" width="260" height="508" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-YWU6AqfrRppW4aUFze-2" value="cal:fechaDesde&#xa;cal:fechaHasta&#xa;select:tipoReseñaSomelier&#xa;select:formatoVisulaizacionReporte&#xa;select:nombresVinosEnPeriodo&#xa;select:diezMejoresVinos&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
-          <mxGeometry y="50" width="260" height="100" as="geometry" />
+        <mxCell id="Z-YWU6AqfrRppW4aUFze-2" value="fechaDesde&#xa;fechaHasta&#xa;tipoReseñaSomelier&#xa;formatoVisulaizacionReporte&#xa;nombresVinosEnPeriodo&#xa;diezMejoresVinos&#xa;nombreVino&#xa;calificacionSommelier&#xa;calificacionGeneral&#xa;precioArs&#xa;bodega&#xa;varietal&#xa;region&#xa;pais&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
+          <mxGeometry y="50" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Z-YWU6AqfrRppW4aUFze-7" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
-          <mxGeometry y="150" width="260" height="10" as="geometry" />
+          <mxGeometry y="260" width="260" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Z-YWU6AqfrRppW4aUFze-19" value="generarRankingVinos()&#xa;tomarFechasReseña()&#xa;validarPeriodoFechas()&#xa;tomarTipoReseñaSomalier()&#xa;tomarVisualizacionesReporte(&#xa;tomarConfirmacionReporteRanking()&#xa;generarReporte()&#xa;buscarVinosPeriodosSeleccionado()&#xa;calcularPromedioSommelierCalificacionReseñas()&#xa;calcularPromedioReseñaSoomelier()&#xa;ordernarVinosCalificacionesSommelier()&#xa;calcularRankignDiezMejores()&#xa;buscarDatosDiezMejoresPuntuados() &#xa;generarReporteDiezMejoresVinos()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
-          <mxGeometry y="160" width="260" height="218" as="geometry" />
+          <mxGeometry y="270" width="260" height="218" as="geometry" />
         </mxCell>
         <mxCell id="TLT061IVR9V-ptKNTN7q-0" value="&lt;&lt;entity&gt;&gt;&#xa;Varietal&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="728" width="260" height="142" as="geometry">
