@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T13:25:40.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="d14VeR9ciQFC5K_Bcp9M" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T13:29:26.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="AkpP_KkIBYSFy5_ZONMA" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1380" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="nPb1NBIbfSIIsEQKdFzU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fM_27AEoaIsvqTzud0nu-0" target="nPb1NBIbfSIIsEQKdFzU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPb1NBIbfSIIsEQKdFzU-3" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPb1NBIbfSIIsEQKdFzU-2">
+          <mxGeometry x="0.488" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fM_27AEoaIsvqTzud0nu-0" value="&lt;&lt;boundary&gt;&gt;&#xa;PantallaRankingVinos&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="30" width="260" height="600" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
@@ -107,6 +115,9 @@
         </mxCell>
         <mxCell id="i51oB7Ke1q50NQPGhfEZ-10" value="calcularRanking()&#xa;compararEtiqueta()&#xa;esDeBodega()&#xa;esDeRegionVitivinicola()&#xa;tieneReseñasSommelierEnPeriodo()&#xa;getNombre()&#xa;calcularPromedioReseñasSommelier()&#xa;calcularPromedioReseñas()&#xa;getPrecioARS()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="i51oB7Ke1q50NQPGhfEZ-6" vertex="1">
           <mxGeometry y="127" width="240" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="nPb1NBIbfSIIsEQKdFzU-1" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;fontStyle=2;startSize=50;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
