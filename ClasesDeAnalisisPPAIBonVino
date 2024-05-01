@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T14:27:51.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="JqTSEfFO7UI56xVP6xq-" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T14:33:55.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="hC1LkHoErEfwHNj0hlgy" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2207" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
         <mxCell id="fED0F7mCU0TBl71dGA9I-41" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="fED0F7mCU0TBl71dGA9I-39" vertex="1">
           <mxGeometry y="90" width="260" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-42" value="." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fED0F7mCU0TBl71dGA9I-39" vertex="1">
+        <mxCell id="fED0F7mCU0TBl71dGA9I-42" value="generarReporte()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fED0F7mCU0TBl71dGA9I-39" vertex="1">
           <mxGeometry y="100" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fED0F7mCU0TBl71dGA9I-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.896;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z-YWU6AqfrRppW4aUFze-2" target="fED0F7mCU0TBl71dGA9I-39" edge="1">
