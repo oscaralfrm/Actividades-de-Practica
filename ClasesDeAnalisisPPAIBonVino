@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T14:59:28.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="STd6zLLnObEsZHHlvk13" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T22:26:59.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="82fIcVridZxWjrwTmtQX" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2207" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -15,22 +15,22 @@
         <mxCell id="fM_27AEoaIsvqTzud0nu-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="fM_27AEoaIsvqTzud0nu-0" vertex="1">
           <mxGeometry y="120" width="260" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="fM_27AEoaIsvqTzud0nu-31" value="opcGenerarRankingVinos()&#xa;habilitarPantalla()&#xa;solicitarFechaReseñaDesde()&#xa;solicitarFechaReseñaHasta()&#xa;tomarFechaReseñaDesde()&#xa;tomarFechaReseñaHasta()&#xa;solicitarTipoReseñaAConsiderar()&#xa;tomarTipoReseñaSommelier()&#xa;mostrarVisualizacionReporte()&#xa;tomarVisualizacionReporteExcel()&#xa;solicitarConfirmacionReporteRanking()&#xa;tomarConfirmacionReporteRanking()&#xa;informarGeneracionArchivoRanking()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="fM_27AEoaIsvqTzud0nu-0" vertex="1">
+        <mxCell id="fM_27AEoaIsvqTzud0nu-31" value="opcionGenerarRankingVinos()&#xa;habilitarPantalla()&#xa;solicitarFechaReseñaDesde()&#xa;solicitarFechaReseñaHasta()&#xa;tomarFechaReseñaDesde()&#xa;tomarFechaReseñaHasta()&#xa;solicitarTipoReseñaAConsiderar()&#xa;tomarTipoReseñaSommelier()&#xa;mostrarFormaVisualizacionReporte()&#xa;tomarFormaVisualizacionReporte()&#xa;solicitarConfirmacionReporteRanking()&#xa;tomarConfirmacionReporteRanking()&#xa;informarGeneracionArchivoRanking()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="fM_27AEoaIsvqTzud0nu-0" vertex="1">
           <mxGeometry y="192" width="260" height="208" as="geometry" />
         </mxCell>
         <mxCell id="Z-YWU6AqfrRppW4aUFze-1" value="&lt;&lt;control&gt;&gt;&#xa;GestorRankingVinos&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="660" y="-150" width="260" height="508" as="geometry">
+          <mxGeometry x="660" y="-150" width="280" height="508" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-YWU6AqfrRppW4aUFze-2" value="fechaDesde&#xa;fechaHasta&#xa;tipoReseñaSomelier&#xa;formatoVisulaizacionReporte&#xa;nombresVinosEnPeriodo&#xa;diezMejoresVinos&#xa;nombreVino&#xa;calificacionSommelier&#xa;calificacionGeneral&#xa;precioARS&#xa;bodega&#xa;varietal&#xa;region&#xa;pais&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
-          <mxGeometry y="50" width="260" height="210" as="geometry" />
+        <mxCell id="Z-YWU6AqfrRppW4aUFze-2" value="fechaDesde&#xa;fechaHasta&#xa;tipoReseñaSomelier&#xa;formaVisulaizacionReporte&#xa;vinosSommelierEnPeriodo&#xa;diezMejoresVinos&#xa;nombreVino&#xa;calificacionSommelier&#xa;precioARS&#xa;bodega&#xa;varietal&#xa;region&#xa;pais&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
+          <mxGeometry y="50" width="280" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Z-YWU6AqfrRppW4aUFze-7" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
-          <mxGeometry y="260" width="260" height="10" as="geometry" />
+          <mxGeometry y="260" width="280" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Z-YWU6AqfrRppW4aUFze-19" value="generarRankingVinos()&#xa;tomarFechasReseña()&#xa;validarPeriodoFechas()&#xa;tomarTipoReseñaSomalier()&#xa;tomarVisualizacionesReporte(&#xa;tomarConfirmacionReporteRanking()&#xa;generarReporte()&#xa;buscarVinosPeriodosSeleccionado()&#xa;calcularPromedioSommelierCalificacionReseñas()&#xa;calcularPromedioReseñaSoomelier()&#xa;ordernarVinosCalificacionesSommelier()&#xa;calcularRankignDiezMejores()&#xa;buscarDatosDiezMejoresPuntuados() &#xa;generarReporteDiezMejoresVinos()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
-          <mxGeometry y="270" width="260" height="218" as="geometry" />
+        <mxCell id="Z-YWU6AqfrRppW4aUFze-19" value="generarRankingVinos()&#xa;tomarFechasReseña()&#xa;validarPeriodoFechas()&#xa;tomarTipoReseñaSommelier()&#xa;tomarVisualizacionesReporte(&#xa;tomarConfirmacionReporteRanking()&#xa;buscarVinosPeriodosSeleccionado()&#xa;calcularPromedioSommelierCalificacionReseñas()&#xa;ordernarVinosCalificacionSommelier()&#xa;calcularRankingDiezMejores()&#xa;buscarDatosDiezMejoresPuntuados() &#xa;generarReporteDiezMejoresVinos()&#xa;finCU()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="Z-YWU6AqfrRppW4aUFze-1" vertex="1">
+          <mxGeometry y="270" width="280" height="218" as="geometry" />
         </mxCell>
         <mxCell id="TLT061IVR9V-ptKNTN7q-0" value="&lt;&lt;entity&gt;&gt;&#xa;Varietal&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="728" width="260" height="142" as="geometry">
@@ -57,11 +57,11 @@
         <mxCell id="i51oB7Ke1q50NQPGhfEZ-3" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="i51oB7Ke1q50NQPGhfEZ-0" vertex="1">
           <mxGeometry y="110" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="i51oB7Ke1q50NQPGhfEZ-4" value="esPremium()&#xa;sosDeEnofilo()&#xa;esFechaPeriodo()&#xa;sosDeSommelier()&#xa;getPuntajeSommelier()&#xa;getPuntaje()&#xa;getFormasVisualizacion()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="i51oB7Ke1q50NQPGhfEZ-0" vertex="1">
+        <mxCell id="i51oB7Ke1q50NQPGhfEZ-4" value="esPremium()&#xa;sosDeEnofilo()&#xa;esFechaEnPeriodo()&#xa;sosDeSommelier()&#xa;getPuntajeSommelier()&#xa;&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="i51oB7Ke1q50NQPGhfEZ-0" vertex="1">
           <mxGeometry y="130" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="i51oB7Ke1q50NQPGhfEZ-6" value="&lt;&lt;entity&gt;&gt;&#xa;Vino&#xa;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="640" y="480" width="240" height="265" as="geometry">
+          <mxGeometry x="640" y="480" width="240" height="320" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -71,13 +71,13 @@
         <mxCell id="i51oB7Ke1q50NQPGhfEZ-9" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="i51oB7Ke1q50NQPGhfEZ-6" vertex="1">
           <mxGeometry y="119" width="240" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="i51oB7Ke1q50NQPGhfEZ-10" value="calcularRanking()&#xa;compararEtiqueta()&#xa;esDeBodega()&#xa;esDeRegionVitivinicola()&#xa;tieneReseñasSommelierEnPeriodo()&#xa;getNombre()&#xa;calcularPromedioReseñasSommelier()&#xa;calcularPromedioReseñas()&#xa;getPrecioARS()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="i51oB7Ke1q50NQPGhfEZ-6" vertex="1">
-          <mxGeometry y="127" width="240" height="132" as="geometry" />
+        <mxCell id="i51oB7Ke1q50NQPGhfEZ-10" value="calcularRanking()compararEtiqueta()&#xa;esDeBodega()&#xa;esDeRegionVitivinicola()&#xa;tieneReseñasSommelierEnPeriodo()&#xa;getVino()&#xa;calcularPromedioReseñasSommelier()&#xa;getNombre()&#xa;getPrecioARS()&#xa;getDescripcionVarietal()&#xa;getNombreBodega()&#xa;getNombreRegion()&#xa;getNombrePais()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="i51oB7Ke1q50NQPGhfEZ-6" vertex="1">
+          <mxGeometry y="127" width="240" height="193" as="geometry" />
         </mxCell>
         <mxCell id="nPb1NBIbfSIIsEQKdFzU-1" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;fontStyle=2;startSize=50;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-0" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.008;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0;exitY=0.106;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z-YWU6AqfrRppW4aUFze-1" target="fM_27AEoaIsvqTzud0nu-0" edge="1">
+        <mxCell id="fED0F7mCU0TBl71dGA9I-0" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.008;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0;exitY=0.106;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z-YWU6AqfrRppW4aUFze-1" target="fM_27AEoaIsvqTzud0nu-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="536" y="69" as="sourcePoint" />
             <mxPoint x="370" y="70" as="targetPoint" />
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fED0F7mCU0TBl71dGA9I-2" value="&lt;&lt;entity&gt;&gt;&#xa;Bodega&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="345" width="260" height="240" as="geometry">
+          <mxGeometry x="310" y="345" width="260" height="260" as="geometry">
             <mxRectangle x="310" y="345" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -100,10 +100,10 @@
         <mxCell id="fED0F7mCU0TBl71dGA9I-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="fED0F7mCU0TBl71dGA9I-2" vertex="1">
           <mxGeometry y="140" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-5" value="contarReseñas()&#xa;mostrarTodosVinos()&#xa;getNombre()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fED0F7mCU0TBl71dGA9I-2" vertex="1">
-          <mxGeometry y="170" width="260" height="70" as="geometry" />
+        <mxCell id="fED0F7mCU0TBl71dGA9I-5" value="contarReseñas()&#xa;mostrarTodosVinos()&#xa;getNombre()&#xa;getNombreRegion()&#xa;getNombrePais()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fED0F7mCU0TBl71dGA9I-2" vertex="1">
+          <mxGeometry y="170" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-6" value="&lt;&lt;entity&gt;&gt;&#xa;RegionVitivinivola" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="fED0F7mCU0TBl71dGA9I-6" value="&lt;&lt;entity&gt;&gt;&#xa;RegionVitivinicola" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-60" y="414.5" width="260" height="170" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -114,7 +114,7 @@
         <mxCell id="fED0F7mCU0TBl71dGA9I-8" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="fED0F7mCU0TBl71dGA9I-6" vertex="1">
           <mxGeometry y="90" width="260" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-9" value="conocerBodegas()&#xa;contarBodegas()&#xa;getRegion()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fED0F7mCU0TBl71dGA9I-6" vertex="1">
+        <mxCell id="fED0F7mCU0TBl71dGA9I-9" value="conocerBodegas()&#xa;contarBodegas()&#xa;getNombre()&#xa;getNombrePais()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fED0F7mCU0TBl71dGA9I-6" vertex="1">
           <mxGeometry y="100" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fED0F7mCU0TBl71dGA9I-14" value="&lt;&lt;entity&gt;&gt;&#xa;Provincia" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -128,7 +128,7 @@
         <mxCell id="fED0F7mCU0TBl71dGA9I-16" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="fED0F7mCU0TBl71dGA9I-14" vertex="1">
           <mxGeometry y="90" width="260" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-17" value="contarRegiones()&#xa;mostrarRegiones()&#xa;getNombre()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fED0F7mCU0TBl71dGA9I-14" vertex="1">
+        <mxCell id="fED0F7mCU0TBl71dGA9I-17" value="contarRegiones()&#xa;mostrarRegiones()&#xa;getNombrePais()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fED0F7mCU0TBl71dGA9I-14" vertex="1">
           <mxGeometry y="100" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fED0F7mCU0TBl71dGA9I-18" value="&lt;&lt;entity&gt;&gt;&#xa;Pais" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -193,7 +193,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.019;exitY=0.12;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i51oB7Ke1q50NQPGhfEZ-0" target="i51oB7Ke1q50NQPGhfEZ-7" edge="1">
+        <mxCell id="fED0F7mCU0TBl71dGA9I-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.025;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i51oB7Ke1q50NQPGhfEZ-2" target="i51oB7Ke1q50NQPGhfEZ-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="630" as="sourcePoint" />
             <mxPoint x="1020" y="580" as="targetPoint" />
@@ -231,7 +231,7 @@
             <mxPoint x="460" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fED0F7mCU0TBl71dGA9I-39" value="&lt;&lt;boundary&gt;&gt;&#xa;InterfazDeVisualizacion&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="fED0F7mCU0TBl71dGA9I-39" value="&lt;&lt;boundary&gt;&gt;&#xa;InterfazExcel&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="110" width="260" height="170" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -273,17 +273,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dDyscSyEOwKmVkwpHLep-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.004;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fED0F7mCU0TBl71dGA9I-7">
+        <mxCell id="dDyscSyEOwKmVkwpHLep-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.004;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fED0F7mCU0TBl71dGA9I-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="420" as="sourcePoint" />
             <mxPoint x="-190" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dDyscSyEOwKmVkwpHLep-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.731;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.681;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fED0F7mCU0TBl71dGA9I-17" target="fED0F7mCU0TBl71dGA9I-18">
+        <mxCell id="dDyscSyEOwKmVkwpHLep-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.731;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.681;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fED0F7mCU0TBl71dGA9I-17" target="fED0F7mCU0TBl71dGA9I-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="420" as="sourcePoint" />
             <mxPoint x="-30" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mbZLEUfoamookQmORYRO-0" value="Consulta? Los metodos que aparecen en el modelo de dominio pero que no implementamos para la realización, se dejan igual o se sacan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFA3B6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-170" y="315" width="760" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
