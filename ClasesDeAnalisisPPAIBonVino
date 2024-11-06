@@ -464,16 +464,16 @@
             <mxPoint x="590" y="-754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hYZizYUA5tAWdfFPrYKS-0" value="" style="endArrow=open;html=1;rounded=0;exitX=0.997;exitY=0.467;exitDx=0;exitDy=0;dashed=1;endFill=0;fontStyle=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;fillColor=#66FF66;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkn7oqvbP-_hATvjn5HI-2" target="fkn7oqvbP-_hATvjn5HI-25">
+        <mxCell id="hYZizYUA5tAWdfFPrYKS-0" value="" style="endArrow=open;html=1;rounded=0;exitX=0.997;exitY=0.467;exitDx=0;exitDy=0;dashed=1;endFill=0;fontStyle=1;exitPerimeter=0;fillColor=#66FF66;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkn7oqvbP-_hATvjn5HI-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="-1010" as="sourcePoint" />
-            <mxPoint x="589" y="-779" as="targetPoint" />
+            <mxPoint x="590" y="-940" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hYZizYUA5tAWdfFPrYKS-1" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkn7oqvbP-_hATvjn5HI-16">
+        <mxCell id="hYZizYUA5tAWdfFPrYKS-1" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;exitX=0.92;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.084;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fkn7oqvbP-_hATvjn5HI-26" target="hYZizYUA5tAWdfFPrYKS-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="-900" as="sourcePoint" />
+            <mxPoint x="490" y="-590" as="sourcePoint" />
             <mxPoint x="550" y="-550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -621,9 +621,6 @@
           <mxGeometry x="-0.286" y="-4" relative="1" as="geometry">
             <mxPoint x="-33" y="-12" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="hYZizYUA5tAWdfFPrYKS-46" value="Metodos de set y get y constructores aplicados a todas las clases" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-590" y="-120" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hYZizYUA5tAWdfFPrYKS-50" value="" style="endArrow=open;html=1;rounded=0;exitX=-0.012;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.685;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="hYZizYUA5tAWdfFPrYKS-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
